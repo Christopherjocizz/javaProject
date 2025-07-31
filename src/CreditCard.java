@@ -10,6 +10,4 @@ public class CreditCard {
     private double availableBalance;
     private boolean active;
     private List<shopping> shoppingList;
-
-
 }
