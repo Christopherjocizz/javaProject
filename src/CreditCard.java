@@ -1,4 +1,4 @@
-import java.awt.*;
+import java.util.List;
 
 public class CreditCard {
 //privateAttributes
@@ -9,7 +9,7 @@ public class CreditCard {
     private double creditLine;
     private double availableBalance;
     private boolean active;
-    private List shoppingList;
+    private List<shopping> shoppingList;
 
 
 }
