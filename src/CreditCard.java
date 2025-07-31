@@ -1,3 +1,5 @@
+import java.awt.*;
+
 public class CreditCard {
 //privateAttributes
     private String cardNumber;
@@ -6,4 +8,8 @@ public class CreditCard {
     private String cvv;
     private double creditLine;
     private double availableBalance;
+    private boolean active;
+    private List shoppingList;
+
+
 }
